@@ -11,7 +11,13 @@ Selamat datang di repositori GrowHub! Kami adalah tim dari Studi Independen Bers
 | R3596YB431   | Rafi Syihab              | R-02  | [rfsyhb](https://github.com/rfsyhb)   |
 
 ## Deskripsi Proyek
-GrowHub adalah aplikasi yang dirancang untuk membantu pengguna dalam manajemen kehidupan sehari-hari, pengembangan diri, dan berbagi pengalaman melalui berbagai fitur seperti:
+GrowHub adalah aplikasi yang dirancang untuk membantu pengguna mengelola kehidupan sehari-hari dengan lebih efektif. Aplikasi ini memiliki beberapa fitur utama, termasuk autentikasi pengguna untuk pendaftaran dan login, serta dashboard utama yang mencakup To-Do List, Goals, kutipan harian yang selalu di-fetch pada homepage, dan navigasi.
+
+Fitur berbagi di GrowHub memungkinkan pengguna untuk membagikan Note dan Blog dengan orang lain. To-Do List membantu pengguna mengatur dan mengelola tugas harian mereka, sementara fitur Goals memungkinkan mereka menetapkan dan melacak pencapaian tujuan jangka pendek dan panjang. Fitur Catatan menyediakan ruang bagi pengguna untuk menyimpan ide-ide penting dan informasi berharga. Forum Diskusi menyediakan platform bagi pengguna untuk berdiskusi dan berbagi pandangan dengan komunitas, sementara Blog memungkinkan mereka berbagi pengalaman dan pengetahuan.
+
+Output yang diharapkan dari proyek ini adalah sebuah aplikasi yang stabil dan mudah digunakan, yang memberikan manfaat nyata bagi pengguna dalam mencapai tujuan mereka dan berinteraksi dengan komunitas.
+
+Jadi GrowHub adalah aplikasi yang dirancang untuk membantu pengguna dalam manajemen kehidupan sehari-hari, pengembangan diri, dan berbagi pengalaman melalui berbagai fitur seperti:
 - **Autentikasi:** Pendaftaran dan login pengguna
 - **Dashboard Utama:** To-Do List, Goals, Quote, Navigasi
 - **Fitur Berbagi:** Note dan Blog yang dapat dibagikan
